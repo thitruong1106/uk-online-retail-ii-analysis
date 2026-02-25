@@ -15,7 +15,6 @@ SELECT
 FROM view_valid_sales;
 
 -- 2) Monthly revenue trend (Year-Month)
--- Using the DATE_FORMAT expression directly in GROUP BY (MySQL-safe)
 SELECT
   YEAR(InvoiceDate) AS year,
   MONTH(InvoiceDate) AS month,
