@@ -1,8 +1,10 @@
--- ==========================================
+-- ===================================================
 -- 00_setup_import 
 -- Purpose: Create table and import Online Retail II CSV into MySQL 
 -- Notes: Replace 'path_to_your_csv/online_retail_II.csv' with your local file directory. 
 -- MySQL will need FILE privileges enable 
+-- ===================================================
+
 DROP TABLE IF EXISTS online_retail_ii;
 
 CREATE TABLE online_retail_ii (
