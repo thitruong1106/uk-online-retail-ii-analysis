@@ -1,5 +1,9 @@
 # UK Online Retail Revenue & Seasonality Analysis (2009-2011) 
 
+### Dataset 
+
+Dataset used: Online Retail II UCI
+Source: https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci/data
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
 ![Project Type](https://img.shields.io/badge/Analysis-Retail_Data-green)
 
@@ -124,3 +128,22 @@ The business successfully matured from an acquisition-focused startup into a ret
 Revenue growth has been stable due to the increased customer loyalty and transaction volume. 
 
 However, the company is structurally dependent on Q4 seasonal performance. Strangthening year round products performance could reduce seasonal risk and support more consistent long term growth. 
+
+---
+
+### Skills Demonstrated 
+- SQL data cleaning and validation
+- Defining business logic for revenue calculation
+- Creating reusable views for consistent analysis
+- Revenue trend analysis (monthly and quarterly)
+- Customer progression analysis (new vs returning)
+- Product seasonality analysis (Q4 vs Non Q4)
+- Translating SQL results into business insights and risk evalution
+- Structuring analysis into reproducible SQL files
+
+--- 
+
+### Tools Used 
+- MySQL
+- SQL (CTEs, View, Aggregation, Windows Fucntion)
+- GitHub (project documentation) 
