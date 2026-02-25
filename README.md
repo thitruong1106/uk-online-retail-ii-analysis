@@ -148,3 +148,10 @@ However, the company is structurally dependent on Q4 seasonal performance. Stran
 - MySQL
 - SQL (CTEs, View, Aggregation, Windows Fucntion)
 - GitHub (project documentation) 
+
+## Reproducibility 
+
+To run this project: 
+1. Download the dataset via zip & Extract the file from the UCI repository.
+2. Execute 00_setup_import.sql to create and load tables
+3. Run SQL files in order. 
