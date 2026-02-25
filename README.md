@@ -12,7 +12,7 @@ Source: https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci/data
 
 ## Executive Summary 
 
-This project analysis transaction data from a UK-based online retailer (2009-2011) to understand 
+This project analyzes transaction data from a UK-based online retailer (2009-2011) to understand 
 - Revenue growth drivers
 - Customer progression
 - Seasonal performance risk
