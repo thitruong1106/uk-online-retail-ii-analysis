@@ -1,11 +1,12 @@
 # UK Online Retail Revenue & Seasonality Analysis (2009-2011) 
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+![Project Type](https://img.shields.io/badge/Analysis-Retail_Data-green)
 
 ### Dataset 
 
 Dataset used: Online Retail II UCI
+
 Source: https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci/data
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
-![Project Type](https://img.shields.io/badge/Analysis-Retail_Data-green)
 
 --- 
 
