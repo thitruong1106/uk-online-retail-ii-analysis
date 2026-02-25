@@ -84,7 +84,7 @@ In other words, Q4 is consider the "holiday driven" quarter.
 
 ---
 
-5.The risk: Seasonal products push out regular sellers 
+### 5.The risk: Seasonal products push out regular sellers 
 
 During Q4 period, shelf space and demand shifts heavily towards holiday related items. 
 
@@ -94,7 +94,7 @@ That create a risk, because if the Christmas category products underperforms, th
 
 ---
 
-6.The backbone of products. 
+### 6.The backbone of products. 
 
 Four products stayed in the top 20 product ranking during both Q4 Period and the rest of the year. 
 
@@ -115,7 +115,7 @@ Q4 isn't just a busy period. The business leans heavily on holidays sales, and p
 3. The trade-off: seasonal products crowd out regular products 
 During Q4, holiday items dominates which pushes out the regular best seller. This strategy works because when sesaonal demand is strong, but creates risks if holiday sales decilne. 
 
-4.Opportunity 
+4. Opportunity 
 Only four products perform consistently all year round. That's a small backbone. By finding more products that sell consistently, or giving more attention to the ones in stock, could reduce seasonal risk significantly. 
 
 Conclusion 
